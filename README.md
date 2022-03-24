@@ -34,3 +34,5 @@
   ![Snake animation](https://github.com/Kawa-github/Kawa-github/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  [go](http://stackoverflow.com){:target="_blank"}.
