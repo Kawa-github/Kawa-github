@@ -1,5 +1,5 @@
 ## Olá, me chamo Kawã Ribeiro!
-🎓 Graduando em Análise e Desenvolvimento de Sistemas <br>
+🎓 Graduado em Análise e Desenvolvimento de Sistemas <br>
 👨‍💻 Estudante de Programação
 
 
