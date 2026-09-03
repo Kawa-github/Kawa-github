@@ -24,7 +24,7 @@ Tenho 22 anos e sou formado em Análise e Desenvolvimento de Sistemas pela UNICI
 
 - 🌍 Moro em São Paulo, Brasil
 - ✉️ Entre em contato [kawa.rfaragao@gmail.com](mailto:kawa.rfaragao@gmail.com)
-- 🧠 Atualmente apredendo **.NET Framework**, **Azure DevOps**, soluções em nuvem, e Clean Architeture.
+- 🧠 Atualmente aprendendo **.NET Framework**, **Azure DevOps**, soluções em nuvem, e Clean Architeture.
 - 🌐 English: **B2 – Upper Intermediate**
 
 ## Tech Stack
