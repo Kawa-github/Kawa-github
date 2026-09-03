@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá 👋, meu nome é Kawã Ribeiro.
+  Olá 👋, meu nome é Kawã.
 </h1>
 
 <h3 align="center">
