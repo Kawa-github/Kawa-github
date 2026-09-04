@@ -79,14 +79,14 @@ Tenho 22 anos e sou formado em Análise e Desenvolvimento de Sistemas pela UNICI
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats-extended.vercel.app/api?username=kawa-github&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=14b8a6&icon_color=14b8a6&text_color=94a3b8"
+    src="https://github-readme-stats-extended.vercel.app/api?username=kawa-github&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=14b8a6&icon_color=14b8a6&text_color=ffffff"
     alt="GitHub statistics"
   />
   <img
-    height="180"
-    src="https://streak-stats.demolab.com?user=kawa-github&hide_border=true&background=00000000&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6&sideLabels=94a3b8&dates=94a3b8"
-    alt="GitHub contribution streak"
-  />
+  height="180"
+  src="https://streak-stats.demolab.com?user=kawa-github&hide_border=true&background=00000000&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6&sideLabels=ffffff&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff"
+  alt="GitHub contribution streak"
+/>
 </p>
 
 <p align="center">
